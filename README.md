@@ -1,7 +1,7 @@
-# BME450-labelingarteries
+# BME450-categorizingeyedisease
 # Title
-Labeling intracranial arteries
+Categorizing Eye Disease using CNN
 ## Team members
 Kate Christensen (kchrist2), Emma Goebel (ergoebel), Meghan Gron (mcgron)
 ## Project decription
-Uses OpenNeuro datasets to categorize locations of intracranial arteries in the brain, to be used for determining locations of lesions, tumors, etc based on images of the intracranial artery in which it is located.
+Uses FIVES Database of eye vasculature segementation images to categorize images into healthy or diseased.
